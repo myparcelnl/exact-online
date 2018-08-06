@@ -1,2 +1,2 @@
-# exact-online
-MyParcel manual for the Exact Online extension
+# Exact Online
+Voor de handleiding ga naar https://myparcelnl.github.io/exact-online/
